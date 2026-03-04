@@ -2,8 +2,6 @@
 
 This repository contains a set of PySpark exercises designed to practice core Data Engineering concepts such as DataFrame creation, transformations, partition management, schema handling, joins, flattening nested data, and writing data to storage formats and tables.
 
-The assignment is organized into five questions, each focusing on different PySpark capabilities.
-
 ---
 
 ## Question 1 – Customer Purchase Analysis
@@ -133,3 +131,4 @@ pytest -v
 ```
 
 ---
+
