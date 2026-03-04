@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 04 22:24:46 IST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019c-b9c5-fe6b-000002dedfd0 
+on database directory E:\F\Projees\INTERN-DE\PYSPARK-ASSIGNMENTS\src\Question4\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/spark/spark-3.5.8-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.18+8
+user.dir=E:\F\Projees\INTERN-DE\PYSPARK-ASSIGNMENTS\src\Question4
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
